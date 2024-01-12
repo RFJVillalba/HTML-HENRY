@@ -1,0 +1,29 @@
+.fondo {
+    background-color: red;
+}
+
+.miTexto {
+    font-size: 80px;
+    color: green;
+}
+
+.divider {
+    background-color: aquamarine;
+}
+
+.mainbody {
+    background-color: coral;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr{
+    background-color: aquamarine;
+}
+
+div{
+    color: blue;
+    font-size: 26px;
+    font-family: fantasy;
+}
+
