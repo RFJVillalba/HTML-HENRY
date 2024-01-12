@@ -1,5 +1,14 @@
 .fondo {
     background-color: red;
+    border: 8px solid black;
+    width: 25vw;
+    margin: auto;
+    padding: 1em;
+    border-radius: 45%;
+}
+
+.fondo:hover{
+    background-color: black;
 }
 
 .miTexto {
@@ -27,3 +36,10 @@ div{
     font-family: fantasy;
 }
 
+#fachera{
+    margin: auto;
+}
+
+#esunlink:hover{
+    color: darkgreen;
+}
